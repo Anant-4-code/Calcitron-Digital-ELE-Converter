@@ -127,8 +127,6 @@ CalcitronAi/
 4. 🚀 Push to the branch: `git push origin feature/amazing-feature`
 5. 🔄 Open a **Pull Request**
 
-📘 Check out our [Contributing Guidelines](CONTRIBUTING.md) for more details on how we work together!
-
 ---
 
 <div align="center">
