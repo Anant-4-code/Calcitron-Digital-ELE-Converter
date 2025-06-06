@@ -31,13 +31,7 @@ Calcitron is a powerful yet simple number system converter that helps students, 
   - Successive Division Method
 - **Two's Complement**: For negative number representation
 
-### 🎓 Learning Tools
-- **Interactive Tutorials**: Learn number system concepts
-- **Practice Mode**: Test your conversion skills
-- **History**: Review your past conversions
-- **Favorites**: Save frequently used conversions
-
-### ⚡ Advanced Features
+### ⚡ Features
 - **Bitwise Operations**: AND, OR, XOR, NOT, Shift operations
 - **Number Formatting**: Group digits for better readability
 - **Copy to Clipboard**: One-tap copy of results
@@ -116,22 +110,6 @@ CalcitronAi/
 └── settings.gradle              # Project settings
 ```
 
-## 🎬 How to Use
-
-### Basic Conversion
-1. **Launch** the app and sign in
-2. Tap the ➕ button to add files
-3. Select your desired **output format**
-4. Choose any conversion options
-5. Tap **Convert** and wait for the process to complete
-6. Access your files in the **Downloads** section
-
-### Advanced Features
-- **Batch Processing**: Select multiple files and convert them at once
-- **Cloud Storage**: Connect your cloud accounts for easy file access
-- **Templates**: Save frequently used settings as templates
-- **History**: View and manage your conversion history
-
 ## 🛠️ System Requirements
 - **Android 8.0 (API 26) or higher**
 - **Minimum 2GB RAM** (4GB recommended)
@@ -153,45 +131,6 @@ CalcitronAi/
 
 ---
 
-## 📚 Documentation Hub
-
-### 📖 User Guides
-- [📱 Getting Started](docs/GETTING_STARTED.md) - Your first steps with Calcitron
-- [🎯 Features Guide](docs/FEATURES.md) - Explore all features in detail
-- [🎥 Video Tutorials](https://youtube.com/calcitron) - Watch and learn
-
-### 👨‍💻 Developer Resources
-- [⚙️ Setup Guide](docs/DEVELOPER_SETUP.md) - Get your dev environment ready
-- [🏗️ Architecture](docs/ARCHITECTURE.md) - Understand the codebase
-- [🧪 Testing](docs/TESTING.md) - How we ensure quality
-- [📡 API Reference](docs/API.md) - Integration guide
-
-### 🛠️ Troubleshooting
-- [🔍 Common Issues](docs/TROUBLESHOOTING.md) - Quick fixes for common problems
-- [📝 Changelog](CHANGELOG.md) - See what's new in each version
-- [🚀 Upgrade Guide](docs/UPGRADE.md) - Update your app smoothly
-
----
-
-## 💬 Need Help? We've Got You Covered!
-
-### 🆘 Support Channels
-- 📖 [Frequently Asked Questions](docs/FAQ.md) - Quick answers to common questions
-- 🐞 [Report a Bug](https://github.com/Anant-4-code/Calcitron-Digital-ELE-Converter/issues) - Found an issue? Let us know!
-- 💡 [Request a Feature](https://github.com/Anant-4-code/Calcitron-Digital-ELE-Converter/discussions) - Have an idea? We'd love to hear it!
-
-### 🌐 Connect With Us
-- 💬 [Join our Discord](https://discord.gg/calcitron) - Chat with the community
-- 🐦 [Follow on Twitter](https://twitter.com/calcitronapp) - Stay updated
-- ✉️ [Email Support](mailto:support@calcitron.app) - Get direct help
-
-### 📢 Stay in the Loop
-- 📰 [Blog](https://blog.calcitron.app) - Latest news and updates
-- 📆 [Roadmap](https://github.com/Anant-4-code/Calcitron-Digital-ELE-Converter/projects/1) - See what's coming next
-- 🌟 [Showcase](https://github.com/Anant-4-code/Calcitron-Digital-ELE-Converter/discussions/categories/show-and-tell) - Share what you've built
-
----
-
 <div align="center">
-  Made with ❤️ by the Calcitron Team | Happy Converting! 🚀
+  Made with Android Studio | Happy Converting! 🚀
 </div>
