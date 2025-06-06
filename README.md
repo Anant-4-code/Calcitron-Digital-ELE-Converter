@@ -1,36 +1,47 @@
 <div align="center">
-  <h1>📱 Calcitron Digital ELE Converter</h1>
-  <h3>Transform Your Educational Content Across Platforms</h3>
+  <h1>🔢 Calcitron Number System Converter</h1>
+  <h3>Seamlessly Convert Between Decimal, Binary, Octal, and Hexadecimal</h3>
   
   [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg)](https://play.google.com/store/apps/details?id=com.calcitron.converter)
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   [![Version](https://img.shields.io/badge/Version-1.0.0-important.svg)]()
   
-  <img src="app/src/main/res/drawable/app_banner.png" alt="App Banner" width="800"/>
+  <img src="app/src/main/res/mipmap-xxhdpi/calcitron_logo.webp" alt="Calcitron Logo" width="200"/>
 </div>
 
 ## 🌟 Overview
-Calcitron Digital ELE (Electronic Learning Environment) Converter revolutionizes how educators and students handle educational content. Our intuitive platform enables seamless conversion between multiple formats while preserving content integrity and enhancing accessibility.
+Calcitron is a powerful yet simple number system converter that helps students, developers, and professionals convert between decimal, binary, octal, and hexadecimal number systems with detailed, step-by-step explanations. Perfect for learning and verifying your number system conversions!
 
 ## 🚀 Key Features
 
-### 🔄 Smart Conversion
-- **Multi-format Support**: PDF, DOCX, PPTX, EPUB, and more
-- **Batch Processing**: Convert multiple files in one go
-- **Cloud Integration**: Google Drive, OneDrive, and Dropbox support
-- **OCR Technology**: Extract text from images and scanned documents
+### 🔢 Number System Conversion
+- **Decimal ↔ Binary**: Convert between base-10 and base-2 systems
+- **Decimal ↔ Octal**: Convert between base-10 and base-8 systems
+- **Decimal ↔ Hexadecimal**: Convert between base-10 and base-16 systems
+- **Binary ↔ Octal/Hexadecimal**: Direct conversion between different bases
+- **Step-by-Step Solutions**: Detailed explanations for every conversion
 
-### 🎓 Educational Tools
-- **Interactive Quizzes**: Convert documents into interactive quizzes
-- **Accessibility First**: Built-in screen reader support and text-to-speech
-- **Collaborative Workspace**: Real-time collaboration for teams
-- **Note-taking**: Annotate and highlight documents
+### 📝 Conversion Methods
+- **Integer Conversions**: 
+  - Division-Remainder Method
+  - Power of 2/8/16 Method
+  - Direct Substitution
+- **Fractional Conversions**:
+  - Multiplication Method
+  - Successive Division Method
+- **Two's Complement**: For negative number representation
+
+### 🎓 Learning Tools
+- **Interactive Tutorials**: Learn number system concepts
+- **Practice Mode**: Test your conversion skills
+- **History**: Review your past conversions
+- **Favorites**: Save frequently used conversions
 
 ### ⚡ Advanced Features
-- **AI-Powered**: Smart suggestions for content enhancement
-- **Offline Mode**: Work without internet connection
-- **Custom Templates**: Save your favorite conversion settings
-- **API Access**: Integrate with your existing tools
+- **Bitwise Operations**: AND, OR, XOR, NOT, Shift operations
+- **Number Formatting**: Group digits for better readability
+- **Copy to Clipboard**: One-tap copy of results
+- **Dark/Light Theme**: Choose your preferred interface style
 
 ## 📱 Android Installation
 
@@ -46,6 +57,60 @@ Calcitron Digital ELE (Electronic Learning Environment) Converter revolutionizes
 3. Enable "Unknown sources" (if not already enabled)
 4. Open the downloaded APK file
 5. Tap "Install" and follow the on-screen instructions
+
+## 🔢 Conversion Examples
+
+### 1. Decimal to Binary Conversion
+**Example:** Convert 29 to binary
+
+**Step 1:** Divide by 2 and record remainders
+```
+29 ÷ 2 = 14 remainder 1
+14 ÷ 2 = 7  remainder 0
+7  ÷ 2 = 3  remainder 1
+3  ÷ 2 = 1  remainder 1
+1  ÷ 2 = 0  remainder 1
+```
+**Step 2:** Write remainders in reverse order
+**Result:** 29₁₀ = 11101₂
+
+### 2. Binary to Hexadecimal
+**Example:** Convert 11010110 to hexadecimal
+
+**Step 1:** Group into 4 bits (add leading zeros if needed)
+`1101 0110`
+
+**Step 2:** Convert each group
+`1101` = D
+`0110` = 6
+
+**Result:** 11010110₂ = D6₁₆
+
+### 3. Decimal to Octal
+**Example:** Convert 143 to octal
+
+**Step 1:** Divide by 8 and record remainders
+```
+143 ÷ 8 = 17 remainder 7
+ 17 ÷ 8 = 2  remainder 1
+  2 ÷ 8 = 0  remainder 2
+```
+**Step 2:** Write remainders in reverse order
+**Result:** 143₁₀ = 217₈
+
+## 🎬 How to Use
+
+### Basic Conversion
+1. **Select Input Type** (Decimal, Binary, Octal, or Hexadecimal)
+2. **Enter your number** in the input field
+3. **View results** in all number systems simultaneously
+4. **Tap any result** to see detailed step-by-step conversion
+
+### Advanced Features
+- **Long press** any result to copy to clipboard
+- **Swipe left/right** to switch between conversion modes
+- **Pinch to zoom** on conversion steps for better readability
+- **Shake device** to clear current calculation
 
 ## 🏗️ Project Structure
 ```
@@ -144,6 +209,20 @@ CalcitronAi/
 - 📆 [Roadmap](https://github.com/Anant-4-code/Calcitron-Digital-ELE-Converter/projects/1) - See what's coming next
 - 🌟 [Showcase](https://github.com/Anant-4-code/Calcitron-Digital-ELE-Converter/discussions/categories/show-and-tell) - Share what you've built
 
+## 📚 Learning Resources
+
+### Number System Basics
+- **Decimal (Base-10)**: The standard number system using digits 0-9
+- **Binary (Base-2)**: Uses only 0 and 1, fundamental in computing
+- **Octal (Base-8)**: Uses digits 0-7, useful in computing
+- **Hexadecimal (Base-16)**: Uses 0-9 and A-F, widely used in programming
+
+### Common Use Cases
+- **Computer Science**: Memory addressing, color codes, permissions
+- **Electronics**: Digital circuits, bitwise operations
+- **Networking**: IP addressing, subnet masks
+- **Programming**: Bit manipulation, memory optimization
+
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -151,21 +230,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Core Team
 - **Anant** - Project Lead & Developer
-- **Contributors** - Thanks to everyone who has contributed!
+- **Mathematics Educators** - For guidance on teaching methods
+- **Beta Testers** - For valuable feedback and bug reports
 
 ### Technologies Used
 - [Kotlin](https://kotlinlang.org/) - Primary programming language
-- [Android Jetpack](https://developer.android.com/jetpack) - Modern Android development
-- [Firebase](https://firebase.google.com/) - Backend services
-- [TensorFlow Lite](https://www.tensorflow.org/lite) - On-device machine learning
+- [Android Jetpack Compose](https://developer.android.com/jetpack/compose) - Modern UI toolkit
+- [Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) - For asynchronous operations
+- [Material Design 3](https://m3.material.io/) - For beautiful, consistent UI
 
 ### Special Thanks
-- Our amazing beta testers
-- The open-source community
-- All our users for their valuable feedback
+- Computer Science educators worldwide
+- The Kotlin and Android developer communities
+- All our users for their support and feedback
 
 ---
 
 <div align="center">
-  Made with ❤️ by the Calcitron Team
+  Made with ❤️ by the Calcitron Team | Happy Converting! 🚀
 </div>
