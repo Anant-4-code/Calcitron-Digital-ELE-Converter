@@ -45,12 +45,6 @@ Calcitron is a powerful yet simple number system converter that helps students, 
 
 ## 📱 Android Installation
 
-### Google Play Store (Recommended)
-1. Open the [Google Play Store](https://play.google.com/store/apps/details?id=com.calcitron.converter) on your Android device
-2. Search for "Calcitron ELE Converter"
-3. Tap "Install"
-4. Once installed, open the app and sign in or create an account
-
 ### Manual APK Installation
 1. [Download the latest APK](https://github.com/Anant-4-code/Calcitron-Digital-ELE-Converter/releases/latest)
 2. On your Android device, go to Settings > Security
@@ -195,41 +189,6 @@ CalcitronAi/
 - 📰 [Blog](https://blog.calcitron.app) - Latest news and updates
 - 📆 [Roadmap](https://github.com/Anant-4-code/Calcitron-Digital-ELE-Converter/projects/1) - See what's coming next
 - 🌟 [Showcase](https://github.com/Anant-4-code/Calcitron-Digital-ELE-Converter/discussions/categories/show-and-tell) - Share what you've built
-
-## 📚 Learning Resources
-
-### Number System Basics
-- **Decimal (Base-10)**: The standard number system using digits 0-9
-- **Binary (Base-2)**: Uses only 0 and 1, fundamental in computing
-- **Octal (Base-8)**: Uses digits 0-7, useful in computing
-- **Hexadecimal (Base-16)**: Uses 0-9 and A-F, widely used in programming
-
-### Common Use Cases
-- **Computer Science**: Memory addressing, color codes, permissions
-- **Electronics**: Digital circuits, bitwise operations
-- **Networking**: IP addressing, subnet masks
-- **Programming**: Bit manipulation, memory optimization
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## ✨ Acknowledgments
-
-### Core Team
-- **Anant** - Project Lead & Developer
-- **Mathematics Educators** - For guidance on teaching methods
-- **Beta Testers** - For valuable feedback and bug reports
-
-### Technologies Used
-- [Kotlin](https://kotlinlang.org/) - Primary programming language
-- [Android Jetpack Compose](https://developer.android.com/jetpack/compose) - Modern UI toolkit
-- [Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) - For asynchronous operations
-- [Material Design 3](https://m3.material.io/) - For beautiful, consistent UI
-
-### Special Thanks
-- Computer Science educators worldwide
-- The Kotlin and Android developer communities
-- All our users for their support and feedback
 
 ---
 
