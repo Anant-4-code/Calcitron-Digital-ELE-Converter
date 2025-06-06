@@ -98,19 +98,6 @@ Calcitron is a powerful yet simple number system converter that helps students, 
 **Step 2:** Write remainders in reverse order
 **Result:** 143₁₀ = 217₈
 
-## 🎬 How to Use
-
-### Basic Conversion
-1. **Select Input Type** (Decimal, Binary, Octal, or Hexadecimal)
-2. **Enter your number** in the input field
-3. **View results** in all number systems simultaneously
-4. **Tap any result** to see detailed step-by-step conversion
-
-### Advanced Features
-- **Long press** any result to copy to clipboard
-- **Swipe left/right** to switch between conversion modes
-- **Pinch to zoom** on conversion steps for better readability
-- **Shake device** to clear current calculation
 
 ## 🏗️ Project Structure
 ```
